@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yu CAI / Site Title"
+title                    : "Yu CAI"
 title_separator          : "-"
 name                     : "Yu Cai"
 description              : &description "personal description"
