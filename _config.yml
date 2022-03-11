@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yu CAI / Site Title"
 title_separator          : "-"
-name                     : Yu Cai"
+name                     : "Yu Cai"
 description              : &description "personal description"
 url                      : https://caiyu6666.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
