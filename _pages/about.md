@@ -27,13 +27,13 @@ Recently I'm working on unsupervised anomaly detection.
 Selected Awards
 ======
 - National Scholarship	<p align="right">2021</p>
-- Merit Student	<p align="right">2021</p>
-- National Scholarship	<p align="right">2020</p>
-- Merit Student	<p align="right">2020</p>
-- Outstanding Undergraduates	<p align="right">2020</p>
+- Merit Student<p align="right">2021</p>
+- National Scholarship<p align="right">2020</p>
+- Merit Student<p align="right">2020</p>
+- Outstanding Undergraduates<p align="right">2020</p>
 
 
 
-[//]: #![Editing a markdown file for a talk](/images/editing-talk.png)
+<!-- ![Editing a markdown file for a talk](/images/editing-talk.png) -->
 
 
