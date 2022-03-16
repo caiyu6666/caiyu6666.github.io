@@ -22,26 +22,15 @@ Medical Image Analysis, Computer Vision, Deep Learning.  Recently I'm working on
 
 Selected Awards
 ======
-- HKUST RedBird PhD Award, 2022
+- HKUST RedBird PhD Award <div style="text-align: right"> 2022</div>
+- National Scholarship <div style="text-align: right"> 2021</div>
+- Merit Student <div style="text-align: right"> 2021</div>
+- National Scholarship <div style="text-align: right"> 2020</div>
+- Merit Student <div style="text-align: right"> 2020</div>
+- Outstanding Undergraduate (Top 1% of sophomoric and junior students at HUST)  <div style="text-align: right"> 2020</div>
+- Scholarship for Academic Excellence  <div style="text-align: right"> 2019 </div>
+- Scholarship for Self-improvement  <div style="text-align: right"> 2019 </div>
 
-- National Scholarship, 2021
-
-- Merit Student, 2021
-
-- National Scholarship, 2020
-
-- Merit Student, 2020
-
-- Outstanding Undergraduate (Top 1% of sophomoric and junior students at HUST), 2020
-
-- Scholarship for Academic Excellence, 2019
-
-- Scholarship for Self-improvement, 2019
-
-
-
-
- <div style="text-align: right"> your-text-here </div>
 
 
 
