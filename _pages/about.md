@@ -27,7 +27,7 @@ Selected Awards
 - Merit Student, 2021
 - National Scholarship, 2020
 - Merit Student, 2020
-- Outstanding Undergraduates, 2020
+- Outstanding Undergraduate (Top 1% of sophomoric and junior students at HUST), 2020
 
 
 
