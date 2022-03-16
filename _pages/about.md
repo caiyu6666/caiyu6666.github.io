@@ -16,14 +16,13 @@ I am a 4-th year undergraduate student at the Excellent Engineer Class of [Schoo
 
 # Research Interests
 
-Medical Image Analysis, Computer Vision, Deep Learning. 
-
-Recently I'm working on unsupervised anomaly detection.
+Medical Image Analysis, Computer Vision, Deep Learning.  Recently I'm working on unsupervised anomaly detection.
 
 
 
 Selected Awards
 ======
+- HKUST RedBird PhD Award, 2022
 - National Scholarship, 2021
 - Merit Student, 2021
 - National Scholarship, 2020
