@@ -22,7 +22,7 @@ Medical Image Analysis, Computer Vision, Deep Learning.  Recently I'm working on
 
 Selected Awards
 ======
-HKUST RedBird PhD Award <div style="text-align: right"> 2022</div>
+- HKUST RedBird PhD Award    <div style="text-align: right"> 2022</div>
 
 National Scholarship <div style="text-align: right"> 2021</div>
 
