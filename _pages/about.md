@@ -22,7 +22,9 @@ Medical Image Analysis, Computer Vision, Deep Learning.  Recently I'm working on
 
 Selected Awards
 ======
-- HKUST RedBird PhD Award, 2022
+- [HKUST RedBird PhD Award](https://caiyu6666.github.io/files/HKUST_RedBird_PhD_Award_CAI_Yu_SENG.pdf), 2022
+
+
 - National Scholarship, 2021
 - Merit Student, 2021
 - National Scholarship, 2020
