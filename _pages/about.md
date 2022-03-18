@@ -10,18 +10,18 @@ redirect_from:
 
 
 
-I am a 4-th year undergraduate student at the Excellent Engineer Class of [School of Electronic Information and Communications](http://ei.hust.edu.cn/), [Huazhong University of Science and Technology](https://www.hust.edu.cn/). I am also an incoming Ph.D. student at [Department of Electronic and Computer Engineering](https://ece.hkust.edu.hk/), [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by [Prof. Kwang-ting (Tim) Cheng](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng) and [Prof. Hao Chen](https://cse.hkust.edu.hk/~jhc/), since 2022 fall.
+I am a 4-th year undergraduate student at the Excellent Engineer Class of [School of Electronic Information and Communications](http://ei.hust.edu.cn/), [Huazhong University of Science and Technology](https://www.hust.edu.cn/). I am also an incoming Ph.D. student at [Department of Electronic and Computer Engineering](https://ece.hkust.edu.hk/), [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by Prof. [Kwang-ting (Tim) Cheng](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng) and Prof. [Hao Chen](https://cse.hkust.edu.hk/~jhc/), since 2022 fall.
 
 
 
-# Research Interests
+## Research Interests
 
 Medical Image Analysis, Computer Vision, Deep Learning.  Recently I'm working on unsupervised anomaly detection.
 
 
 
 Selected Awards
-======
+------
 - [HKUST RedBird PhD Award](https://pg.usthk.cn/prospective-students/scholarship-fees/generous-scholarships), 2022
 - National Scholarship, 2021
 - Merit Student, 2021
