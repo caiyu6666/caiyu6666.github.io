@@ -34,7 +34,3 @@ Selected Awards
 
 
 <!-- ![Editing a markdown file for a talk](/images/editing-talk.png) -->
-
-
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=160&t=m&d=IO0tjAO3J7djUSrTaGr56Hi6-EqF5qwFpDkGwXePI0Y'></script>
