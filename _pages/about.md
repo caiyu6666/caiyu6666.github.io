@@ -22,7 +22,7 @@ Medical Image Analysis, Computer Vision, Deep Learning.  Recently I'm working on
 
 ## News
 
-- **[2022/05]** One paper is (early) accepted to MICCAI 2022.
+- **[2022/05]** One paper is early accepted to MICCAI 2022.
 
 
 
