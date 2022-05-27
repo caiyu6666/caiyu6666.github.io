@@ -29,13 +29,11 @@ Medical Image Analysis, Computer Vision, Deep Learning.  Recently I'm working on
 
 ## Publications
 
->**Dual-Distribution Discrepancy for Anomaly Detection in Chest X-Rays**
->
-><u>Yu Cai</u>, Hao Chen, Xin Yang, Yu Zhou, Kwang-Ting Cheng.
->
->*International Conference on Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2022. **Early Accept** (Acceptance rate: 13%).
+>**Dual-Distribution Discrepancy for Anomaly Detection in Chest X-Rays**. <br><u>Yu Cai</u>, Hao Chen, Xin Yang, Yu Zhou, Kwang-Ting Cheng.<br>*International Conference on Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2022. **Early Accept** (Acceptance rate: 13%).
 
 -----
+
+......
 
 
 
