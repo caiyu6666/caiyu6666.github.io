@@ -15,25 +15,22 @@ I am a 4-th year undergraduate student at the Excellent Engineer Class of [Schoo
 
 
 ## Research Interests
-
 Medical Image Analysis, Computer Vision, Deep Learning.  Recently I'm working on unsupervised anomaly detection.
 
 
 
 ## News
-
 - **[2022/05]** One paper is early accepted to MICCAI 2022.
 
 
 
 
 ## Publications
+>**Dual-Distribution Discrepancy for Anomaly Detection in Chest X-Rays**. <br><u>Yu Cai</u>, Hao Chen, Xin Yang, Yu Zhou, Kwang-Ting Cheng.<br>*International Conference on Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2022. **Early Accept** (Acceptance rate: 13%). <br>[[paper](https://arxiv.org/pdf/2206.03935.pdf)]|[[code](https://github.com/caiyu6666/DDAD)]
 
->**Dual-Distribution Discrepancy for Anomaly Detection in Chest X-Rays**. <br><u>Yu Cai</u>, Hao Chen, Xin Yang, Yu Zhou, Kwang-Ting Cheng.<br>*International Conference on Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2022. **Early Accept** (Acceptance rate: 13%).
+---
 
------
 
-......
 
 
 
