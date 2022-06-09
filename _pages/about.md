@@ -33,7 +33,7 @@ Medical Image Analysis, Computer Vision, Deep Learning.  Recently I'm working on
 
 ---
 
-...
+
 
 
 
