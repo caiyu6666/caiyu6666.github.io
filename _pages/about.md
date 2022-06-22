@@ -20,6 +20,7 @@ Medical Image Analysis, Computer Vision, Deep Learning.  Recently I'm working on
 
 
 ## News
+- **[2022/06]** Graduate from HUST with Honours Bachelor Degree (top 2%). 
 - **[2022/05]** One paper is early accepted to MICCAI 2022.
 
 
@@ -39,6 +40,7 @@ Medical Image Analysis, Computer Vision, Deep Learning.  Recently I'm working on
 
 Selected Awards
 ------
+- Honours Bachelor Degree (Top 2% of graduates), 2022
 - [HKUST RedBird PhD Award](https://pg.usthk.cn/prospective-students/scholarship-fees/generous-scholarships), 2022
 - National Scholarship, 2021
 - Merit Student, 2021
