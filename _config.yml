@@ -83,11 +83,11 @@ author:
   name             : "Yu CAI"
   avatar           : "profile.png"
   bio              : "Incoming PhD student at HKUST ECE."
-  location         : "Wuhan, China"
+  location         : Hong Kong SAR, China"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  # googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "caiyu@hust.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=kR5LuzgAAAAJ&hl=zh-CN"
+  email            : "yu.cai@connect.ust.hk"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
