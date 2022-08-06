@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I am an incoming Ph.D. student at [Department of Electronic and Computer Engineering](https://ece.hkust.edu.hk/), [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by Prof. [Kwang-ting (Tim) Cheng](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng) and Prof. [Hao Chen](https://cse.hkust.edu.hk/~jhc/), since 2022 fall. Previously, I received the (Honours) B.Eng. degree at the  Excellent Engineer Class of [School of Electronic Information and Communications](http://ei.hust.edu.cn/), [Huazhong University of Science and Technology](https://www.hust.edu.cn/) in June, 2022. At HUST, I was lucky to do research with Prof. [Xin Yang](https://sites.google.com/view/xinyang/home) and Prof. [Yu Zhou](https://www.vlrlab.net/~yuzhou). 
+I am a Ph.D. student at [Department of Electronic and Computer Engineering](https://ece.hkust.edu.hk/), [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by Prof. [Kwang-Ting (Tim) Cheng](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng) and Prof. [Hao Chen](https://cse.hkust.edu.hk/~jhc/), since 2022 fall. Previously, I received the (Honours) B.Eng. degree at the  Excellent Engineer Class of [School of Electronic Information and Communications](http://ei.hust.edu.cn/), [Huazhong University of Science and Technology](https://www.hust.edu.cn/) in June, 2022. At HUST, I was lucky to do research with Prof. [Xin Yang](https://sites.google.com/view/xinyang/home) and Prof. [Yu Zhou](https://www.vlrlab.net/~yuzhou). 
 
 
 
@@ -22,6 +22,7 @@ Medical Image Analysis, Computer Vision, Deep Learning.  Recently I'm working on
 ## News
 - **[2022/06]** Graduate from HUST with Honours Bachelor Degree (top 2%). 
 - **[2022/06]** Awarded *Outstanding Graduate*.
+- **[2022/06]** My thesis "Research on Unsupervised Anomaly Detection in Chest X-rays" is awarded *Outstanding Undergraduate Thesis*.
 - **[2022/05]** One paper is early accepted to MICCAI 2022.
 
 
