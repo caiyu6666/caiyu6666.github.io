@@ -42,10 +42,11 @@ Medical Image Analysis, Computer Vision, Deep Learning.  Recently I'm working on
 
 Selected Awards
 ------
+- [HKUST Postgraduate Studentship](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees#pgs), 2022-2026
 - Honours Bachelor Degree (Top 2% of graduates), 2022
 - Outstanding Graduate, 2022
 - Outstanding Undergraduate Thesis, 2022
-- [HKUST RedBird PhD Award](https://pg.usthk.cn/prospective-students/scholarship-fees/generous-scholarships), 2022
+- [HKUST RedBird PhD Award](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees#redbird), 2022
 - National Scholarship, 2021
 - Merit Student, 2021
 - National Scholarship, 2020
