@@ -42,19 +42,17 @@ Medical Image Analysis, Computer Vision, Deep Learning.  Recently I'm working on
 
 Selected Awards
 ------
-- *2022-2026* [HKUST Postgraduate Studentship](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees#pgs)
-- *2022* Honours Bachelor Degree (Top 2% of graduates)
-- *2022* Outstanding Graduate
-- *2022* Outstanding Undergraduate Thesis
-- *2022* [HKUST RedBird PhD Award](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees#redbird)
-- *2021* National Scholarship
-- *2021* Merit Student
-- *2020* National Scholarship
-- *2020* Merit Student
-- *2020* Outstanding Undergraduate (Top 1% of sophomoric and junior students at HUST)
-- *2019* Scholarship for Academic Excellence
-- *2019* Scholarship for Self-improvement
+- *2022-2026* &nbsp;&nbsp;&nbsp;&nbsp; [HKUST Postgraduate Studentship](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees#pgs)
+- *2022* &nbsp;&nbsp;&nbsp;&nbsp; Honours Bachelor Degree (Top 2% of graduates)
+- *2022* &nbsp;&nbsp;&nbsp;&nbsp; Outstanding Graduate
+- *2022* &nbsp;&nbsp;&nbsp;&nbsp; Outstanding Undergraduate Thesis
+- *2022* &nbsp;&nbsp;&nbsp;&nbsp; [HKUST RedBird PhD Award](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees#redbird)
+- *2021* &nbsp;&nbsp;&nbsp;&nbsp; National Scholarship
+- *2021* &nbsp;&nbsp;&nbsp;&nbsp; Merit Student
+- *2020* &nbsp;&nbsp;&nbsp;&nbsp; National Scholarship
+- *2020* &nbsp;&nbsp;&nbsp;&nbsp; Merit Student
+- *2020* &nbsp;&nbsp;&nbsp;&nbsp; Outstanding Undergraduate (Top 1% of sophomoric and junior students at HUST)
+- *2019* &nbsp;&nbsp;&nbsp;&nbsp; Scholarship for Academic Excellence
+- *2019* &nbsp;&nbsp;&nbsp;&nbsp; Scholarship for Self-improvement
 
 
-
-<!-- ![Editing a markdown file for a talk](/images/editing-talk.png) -->
