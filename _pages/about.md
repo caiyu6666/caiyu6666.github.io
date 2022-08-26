@@ -42,18 +42,18 @@ Medical Image Analysis, Computer Vision, Deep Learning.  Recently I'm working on
 
 Selected Awards
 ------
-- [HKUST Postgraduate Studentship](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees#pgs), 2022-2026
-- Honours Bachelor Degree (Top 2% of graduates), 2022
-- Outstanding Graduate, 2022
-- Outstanding Undergraduate Thesis, 2022
-- [HKUST RedBird PhD Award](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees#redbird), 2022
-- National Scholarship, 2021
-- Merit Student, 2021
-- National Scholarship, 2020
-- Merit Student, 2020
-- Outstanding Undergraduate (Top 1% of sophomoric and junior students at HUST), 2020
-- Scholarship for Academic Excellence, 2019
-- Scholarship for Self-improvement, 2019
+- *2022-2026* [HKUST Postgraduate Studentship](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees#pgs)
+- *2022* Honours Bachelor Degree (Top 2% of graduates)
+- *2022* Outstanding Graduate
+- *2022* Outstanding Undergraduate Thesis
+- *2022* [HKUST RedBird PhD Award](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees#redbird)
+- *2021* National Scholarship
+- *2021* Merit Student
+- *2020* National Scholarship
+- *2020* Merit Student
+- *2020* Outstanding Undergraduate (Top 1% of sophomoric and junior students at HUST)
+- *2019* Scholarship for Academic Excellence
+- *2019* Scholarship for Self-improvement
 
 
 
