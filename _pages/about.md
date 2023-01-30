@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Homepage"
+excerpt: "Homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,6 +11,8 @@ redirect_from:
 
 
 I am a Ph.D. student at [Department of Electronic and Computer Engineering](https://ece.hkust.edu.hk/), [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), supervised by Prof. [Kwang-Ting (Tim) Cheng](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng) and Prof. [Hao Chen](https://cse.hkust.edu.hk/~jhc/), since 2022 fall. Previously, I received the B.Eng. degree (with Honours) at the  Excellent Engineer Class of [School of Electronic Information and Communications (EIC)](http://ei.hust.edu.cn/), [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/) in June, 2022. At HUST, I was lucky to do research with Prof. [Xin Yang](https://sites.google.com/view/xinyang/home) and Prof. [Yu Zhou](https://www.vlrlab.net/~yuzhou). 
+
+Here is my [CV](https://caiyu6666.github.io/files/YuCai_resume.pdf).
 
 
 
@@ -29,10 +31,17 @@ Medical Image Analysis, Computer Vision, Deep Learning.  Recently I'm working on
 
 
 ## Publications
+>**Dual-distribution discrepancy with self-supervised refinement for anomaly detection in medical images**. <br>
+><u>Yu Cai</u>, Hao Chen, Xin Yang, Yu Zhou, Kwang-Ting Cheng.<br>
+>*Under review*  <br>
+>[[arXiv](https://arxiv.org/abs/2210.04227)] | [[code](https://github.com/caiyu6666/DDAD-ASR)]
+
+---
+
 >**Dual-Distribution Discrepancy for Anomaly Detection in Chest X-Rays**. <br>
 ><u>Yu Cai</u>, Hao Chen, Xin Yang, Yu Zhou, Kwang-Ting Cheng.<br>
 >*International Conference on Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2022. **Early Accept** (Acceptance rate: 13%). <br>
->[[paper](https://link.springer.com/chapter/10.1007/978-3-031-16437-8_56)] | [[arXiv](https://arxiv.org/pdf/2206.03935.pdf)] | [[code](https://github.com/caiyu6666/DDAD)]
+>[[paper](https://link.springer.com/chapter/10.1007/978-3-031-16437-8_56)] | [[arXiv](https://arxiv.org/abs/2206.03935)] | [[code](https://github.com/caiyu6666/DDAD)]
 
 ---
 
