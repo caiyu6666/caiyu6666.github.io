@@ -65,3 +65,8 @@ Selected Awards
 - *2019* &nbsp;&nbsp;&nbsp;&nbsp; Scholarship for Self-improvement
 
 
+
+
+## Teaching Assistant
+
+- ELEC5680 Advanced Deep Learning Architectures. Spring 2023.
