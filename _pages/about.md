@@ -22,22 +22,20 @@ Medical Image Analysis, Computer Vision, Deep Learning.  Recently I'm working on
 
 
 ## News
+- **[2023/03]** One paper is accepted by **Medical Image Analysis (MedIA)**.
 - **[2022/06]** Graduate from HUST with Honours Bachelor Degree (top 2%). 
 - **[2022/06]** Awarded *Outstanding Graduate*.
 - **[2022/06]** My thesis "Research on Unsupervised Anomaly Detection in Chest X-rays" is awarded *Outstanding Undergraduate Thesis*.
-- **[2022/05]** One paper is early accepted to MICCAI 2022.
+- **[2022/05]** One paper is early accepted by **MICCAI 2022**.
 
 
 
 
 ## Publications
 >**Dual-distribution discrepancy with self-supervised refinement for anomaly detection in medical images**. <br>
-><u>Yu Cai</u>, Hao Chen, Xin Yang, Yu Zhou, Kwang-Ting Cheng.<br>
->*Under review*  <br>
+><u>Yu Cai</u>, Hao Chen, Xin Yang, Yu Zhou, Kwang-Ting Cheng.<br>Medical Image Analysis, 2023. (IF: 13.828)  <br>
 >[[arXiv](https://arxiv.org/abs/2210.04227)] | [[code](https://github.com/caiyu6666/DDAD-ASR)]
-
 ---
-
 >**Dual-Distribution Discrepancy for Anomaly Detection in Chest X-Rays**. <br>
 ><u>Yu Cai</u>, Hao Chen, Xin Yang, Yu Zhou, Kwang-Ting Cheng.<br>
 >*International Conference on Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2022. **Early Accept** (Acceptance rate: 13%). <br>
