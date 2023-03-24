@@ -33,8 +33,7 @@ Medical Image Analysis, Computer Vision, Deep Learning.  Recently I'm working on
 
 ## Publications
 >**Dual-distribution discrepancy with self-supervised refinement for anomaly detection in medical images**. <br>
-><u>Yu Cai</u>, Hao Chen, Xin Yang, Yu Zhou, Kwang-Ting Cheng.<br>*Medical Image Analysis* (**MedIA**), 2023. (IF: 13.828) <br>
->[[arXiv](https://arxiv.org/abs/2210.04227)] | [[code](https://github.com/caiyu6666/DDAD-ASR)]
+><u>Yu Cai</u>, Hao Chen, Xin Yang, Yu Zhou, Kwang-Ting Cheng.<br>*Medical Image Analysis* (**MedIA**), 2023. (IF: 13.828) <br>[[paper](https://doi.org/10.1016/j.media.2023.102794)] | [[arXiv](https://arxiv.org/abs/2210.04227)] | [[code](https://github.com/caiyu6666/DDAD-ASR)]
 
 ---
 
