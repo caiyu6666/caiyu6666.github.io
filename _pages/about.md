@@ -52,11 +52,11 @@ Selected Awards
 ------
 - 2022-2026 &nbsp;&nbsp;&nbsp;&nbsp; [HKUST Postgraduate Studentship](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees#pgs)
 - 2022 &nbsp;&nbsp;&nbsp;&nbsp; [HKUST RedBird PhD Award](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees#redbird)
-- 2022 &nbsp;&nbsp;&nbsp;&nbsp; **Honours Bachelor Degree** (Top 2%)
-- 2022 &nbsp;&nbsp;&nbsp;&nbsp; Outstanding Undergraduate Thesis (Top 2%)
-- 2021 &nbsp;&nbsp;&nbsp;&nbsp; **National Scholarship**
-- 2020 &nbsp;&nbsp;&nbsp;&nbsp; **National Scholarship**
-- 2020 &nbsp;&nbsp;&nbsp;&nbsp; **Outstanding Undergraduate in terms of Academic Performance** (Top 1%)
+- 2022 &nbsp;&nbsp;&nbsp;&nbsp; Honours Bachelor Degree (**Top 2%**)
+- 2022 &nbsp;&nbsp;&nbsp;&nbsp; Outstanding Undergraduate Thesis (**Top 2%**)
+- 2021 &nbsp;&nbsp;&nbsp;&nbsp; National Scholarship (**Top 2%**)
+- 2020 &nbsp;&nbsp;&nbsp;&nbsp; National Scholarship (**Top 2%**)
+- 2020 &nbsp;&nbsp;&nbsp;&nbsp; Outstanding Undergraduate in terms of Academic Performance (**Top 1%**)
 
 
 
