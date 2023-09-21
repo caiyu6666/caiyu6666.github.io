@@ -17,7 +17,7 @@ Here is my [CV](https://caiyu6666.github.io/files/YuCai_resume.pdf).
 
 
 ## Research Interests
-Medical Image Analysis, Computer Vision, Deep Learning.  Recently I'm working on unsupervised anomaly detection.
+Anomaly Detection in Medical images, Computational Pathology.
 
 
 
@@ -51,16 +51,17 @@ Medical Image Analysis, Computer Vision, Deep Learning.  Recently I'm working on
 Selected Awards
 ------
 - 2022-2026 &nbsp;&nbsp;&nbsp;&nbsp; [HKUST Postgraduate Studentship](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees#pgs)
-- 2022 &nbsp;&nbsp;&nbsp;&nbsp; **Honours Bachelor Degree** (Top 2% of graduates)
-- 2022 &nbsp;&nbsp;&nbsp;&nbsp; Outstanding Undergraduate Thesis (Ranked 1st at the School of EIC, HUST)
 - 2022 &nbsp;&nbsp;&nbsp;&nbsp; [HKUST RedBird PhD Award](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees#redbird)
+- 2022 &nbsp;&nbsp;&nbsp;&nbsp; **Honours Bachelor Degree** (Top 2%)
+- 2022 &nbsp;&nbsp;&nbsp;&nbsp; Outstanding Undergraduate Thesis (Top 2%)
 - 2021 &nbsp;&nbsp;&nbsp;&nbsp; **National Scholarship**
 - 2020 &nbsp;&nbsp;&nbsp;&nbsp; **National Scholarship**
-- 2020 &nbsp;&nbsp;&nbsp;&nbsp; **Outstanding Undergraduate** (Top 1% of sophomoric and junior students at HUST)
+- 2020 &nbsp;&nbsp;&nbsp;&nbsp; **Outstanding Undergraduate in terms of Academic Performance** (Top 1%)
 
 
 
 
 ## Teaching Assistant
 
+- ELEC3120 Computer Communication Networks. Fall 2023.
 - ELEC5680 Advanced Deep Learning Architectures. Spring 2023.
