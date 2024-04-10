@@ -38,7 +38,7 @@ Anomaly Detection in Medical images, Computational Pathology.
 
 ---
 
->**Rethinking Autoencoders for Medical Anomaly Detection from A Theoretical Perspective **. <br>
+>**Rethinking Autoencoders for Medical Anomaly Detection from A Theoretical Perspective**. <br>
 ><u>Yu Cai</u>, Hao Chen, Kwang-Ting Cheng.<br>[[ arXiv:2403.09303](https://arxiv.org/abs/2403.09303)]
 
 
