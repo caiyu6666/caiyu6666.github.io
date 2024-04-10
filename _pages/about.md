@@ -25,7 +25,6 @@ Anomaly Detection in Medical images, Computational Pathology.
 - **[2023/11]** Passed the PhD Qualifying Examination (PQE) and became a PhD Candidate!
 - **[2023/03]** One paper was accepted by **Medical Image Analysis (MedIA)**.
 - **[2022/06]** Graduated from HUST with Honours Bachelor Degree (top 2%). 
-- **[2022/06]** Awarded *Outstanding Graduate*.
 - **[2022/06]** My thesis "Research on Unsupervised Anomaly Detection in Chest X-rays" was awarded *Outstanding Undergraduate Thesis*.
 - **[2022/05]** One paper was early accepted by **MICCAI 2022**.
 
