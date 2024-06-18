@@ -22,7 +22,8 @@ Anomaly Detection in Medical images, Computational Pathology.
 
 
 ## News
-- **[2023/11]** Passed the PhD Qualifying Examination (PQE) and became a PhD Candidate!
+- **[2024/06]** One paper was accepted by **MICCAI 2024**.
+- **[2023/11]** Passed the PhD Qualifying Examination (PQE) and became a PhD Candidate.
 - **[2023/03]** One paper was accepted by **Medical Image Analysis (MedIA)**.
 - **[2022/06]** Graduated from HUST with Honours Bachelor Degree (top 2%). 
 - **[2022/06]** My thesis "Research on Unsupervised Anomaly Detection in Chest X-rays" was awarded *Outstanding Undergraduate Thesis*.
@@ -35,16 +36,19 @@ Anomaly Detection in Medical images, Computational Pathology.
 >**MedIAnomaly: A comparative study of anomaly detection in medical images**. <br>
 ><u>Yu Cai</u>, Weiwen Zhang, Hao Chen, Kwang-Ting Cheng.<br>[[arXiv:2404.04518](https://arxiv.org/abs/2404.04518)] | [[code](https://github.com/caiyu6666/MedIAnomaly)]
 
----
-
->**Rethinking Autoencoders for Medical Anomaly Detection from A Theoretical Perspective**. <br>
-><u>Yu Cai</u>, Hao Chen, Kwang-Ting Cheng.<br>[[ arXiv:2403.09303](https://arxiv.org/abs/2403.09303)]
 
 
 
 
 
 ## Publications
+
+>**Rethinking Autoencoders for Medical Anomaly Detection from A Theoretical Perspective**. <br>
+><u>Yu Cai</u>, Hao Chen, Kwang-Ting Cheng.<br>
+>*International Conference on Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2024. <br>
+[[arXiv](https://arxiv.org/abs/2403.09303)]
+
+---
 
 >**Dual-distribution discrepancy with self-supervised refinement for anomaly detection in medical images**. <br>
 ><u>Yu Cai</u>, Hao Chen, Xin Yang, Yu Zhou, Kwang-Ting Cheng.<br>*Medical Image Analysis* (**MedIA**), 2023. (IF: 13.828) <br>[[paper](https://doi.org/10.1016/j.media.2023.102794)] | [[arXiv](https://arxiv.org/abs/2210.04227)] | [[code](https://github.com/caiyu6666/DDAD-ASR)]
