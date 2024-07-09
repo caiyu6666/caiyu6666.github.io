@@ -22,6 +22,7 @@ Anomaly Detection in Medical images, Computational Pathology.
 
 
 ## News
+- **[2024/07]** Awarded HKUST RedBird PhD Award (Academic Excellence Award).
 - **[2024/06]** One paper was accepted by **MICCAI 2024**.
 - **[2023/11]** Passed the PhD Qualifying Examination (PQE) and became a PhD Candidate.
 - **[2023/03]** One paper was accepted by **Medical Image Analysis (MedIA)**.
@@ -69,7 +70,8 @@ Anomaly Detection in Medical images, Computational Pathology.
 Selected Awards
 ------
 - 2022-2026 &nbsp;&nbsp;&nbsp;&nbsp; [HKUST Postgraduate Studentship](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees#pgs)
-- 2022 &nbsp;&nbsp;&nbsp;&nbsp; [HKUST RedBird PhD Award](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees#redbird)
+- 2023-2024 &nbsp;&nbsp;&nbsp;&nbsp; [HKUST RedBird PhD Award (Academic Excellence Award)](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees#redbird)
+- 2022-2023 &nbsp;&nbsp;&nbsp;&nbsp; [HKUST RedBird PhD Award (Recruitment Award)](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees#redbird)
 - 2022 &nbsp;&nbsp;&nbsp;&nbsp; Honours Bachelor Degree (**Top 2%**)
 - 2022 &nbsp;&nbsp;&nbsp;&nbsp; Outstanding Undergraduate Thesis (**Top 2%**)
 - 2021 &nbsp;&nbsp;&nbsp;&nbsp; National Scholarship (**Top 2%**)
