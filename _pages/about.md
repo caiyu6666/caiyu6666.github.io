@@ -22,6 +22,7 @@ Anomaly Detection in Medical images, Computational Pathology.
 
 
 ## News
+- **[2025/02]** One paper was accepted by **Medical Image Analysis (MedIA)**.
 - **[2024/07]** Awarded HKUST RedBird PhD Award (Academic Excellence Award).
 - **[2024/06]** One paper was accepted by **MICCAI 2024**.
 - **[2023/11]** Passed the PhD Qualifying Examination (PQE) and became a PhD Candidate.
@@ -32,22 +33,16 @@ Anomaly Detection in Medical images, Computational Pathology.
 
 
 
-## Preprint
+## Publications
 
 >**MedIAnomaly: A comparative study of anomaly detection in medical images**. <br>
-><u>Yu Cai</u>, Weiwen Zhang, Hao Chen, Kwang-Ting Cheng.<br>[[arXiv:2404.04518](https://arxiv.org/abs/2404.04518)] | [[code](https://github.com/caiyu6666/MedIAnomaly)]
+><u>Yu Cai</u>, Weiwen Zhang, Hao Chen, Kwang-Ting Cheng.<br>*Medical Image Analysis* (**MedIA**), 2025. (IF: 10.7) <br>[[arXiv](https://arxiv.org/abs/2404.04518)] | [[code](https://github.com/caiyu6666/MedIAnomaly)]
 
-
-
-
-
-
-## Publications
+---
 
 >**Rethinking Autoencoders for Medical Anomaly Detection from A Theoretical Perspective**. <br>
 ><u>Yu Cai</u>, Hao Chen, Kwang-Ting Cheng.<br>
->*International Conference on Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2024. <br>
-[[arXiv](https://arxiv.org/abs/2403.09303)]
+>*International Conference on Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2024. <br>[[paper](https://link.springer.com/chapter/10.1007/978-3-031-72120-5_51)] | [[arXiv](https://arxiv.org/abs/2403.09303)] | [[code](https://github.com/caiyu6666/AE4AD)]
 
 ---
 
