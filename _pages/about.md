@@ -36,7 +36,7 @@ Anomaly Detection in Medical images, Computational Pathology.
 ## Publications
 
 >**MedIAnomaly: A comparative study of anomaly detection in medical images**. <br>
-><u>Yu Cai</u>, Weiwen Zhang, Hao Chen, Kwang-Ting Cheng.<br>*Medical Image Analysis* (**MedIA**), 2025. (IF: 10.7) <br>[[arXiv](https://arxiv.org/abs/2404.04518)] | [[code](https://github.com/caiyu6666/MedIAnomaly)]
+><u>Yu Cai</u>, Weiwen Zhang, Hao Chen, Kwang-Ting Cheng.<br>*Medical Image Analysis* (**MedIA**), 2025. (IF: 10.7) <br>[[paper](https://doi.org/10.1016/j.media.2025.103500)] | [[arXiv](https://arxiv.org/abs/2404.04518)] | [[code](https://github.com/caiyu6666/MedIAnomaly)]
 
 ---
 
