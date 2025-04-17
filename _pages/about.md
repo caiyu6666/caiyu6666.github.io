@@ -40,7 +40,8 @@ Anomaly Detection in Medical images, Computational Pathology.
 
 
 
-## Publications
+
+## Selected Publications [[Full List]](https://scholar.google.com/citations?user=kR5LuzgAAAAJ&hl=zh-CN)
 
 >**Towards A Generalizable Pathology Foundation Model via Unified Knowledge Distillation**. <br>
 >Jiabo Ma^, Zhengrui Guo^, Fengtao Zhou, Yihui Wang, Yingxue Xu, Jinbang Li, Fang Yan, <u>Yu Cai</u>, Zhengjie Zhu, Cheng Jin, Yi Lin, Xinrui Jiang, Chenglong Zhao, Danyi Li, Anjia Han, Zhenhui Li, Ronald Cheong Kin Chan, Jiguang Wang, Peng Fei, Kwang-Ting Cheng, Shaoting Zhang#, Li Liang#, Hao Chen#. <br>
