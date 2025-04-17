@@ -25,6 +25,7 @@ Anomaly Detection in Medical images, Computational Pathology.
 
 <div style="height: 240px; overflow: auto;">
 <ul>
+<li>[2025/02] One co-author paper was accepted by <strong>Nature Biomedical Engineering (NBME)</strong>.</li>
 <li>[2025/02] One paper was accepted by <strong>Medical Image Analysis (MedIA)</strong>.</li>
 <li>[2024/07] Awarded HKUST RedBird PhD Award (Academic Excellence Award).</li>
 <li>[2024/06] One paper was accepted by <strong>MICCAI 2024</strong>.</li>
@@ -40,6 +41,12 @@ Anomaly Detection in Medical images, Computational Pathology.
 
 
 ## Publications
+
+>**Towards A Generalizable Pathology Foundation Model via Unified Knowledge Distillation**. <br>
+>Jiabo Ma^, Zhengrui Guo^, Fengtao Zhou, Yihui Wang, Yingxue Xu, Jinbang Li, Fang Yan, <u>Yu Cai</u>, Zhengjie Zhu, Cheng Jin, Yi Lin, Xinrui Jiang, Chenglong Zhao, Danyi Li, Anjia Han, Zhenhui Li, Ronald Cheong Kin Chan, Jiguang Wang, Peng Fei, Kwang-Ting Cheng, Shaoting Zhang#, Li Liang#, Hao Chen#. <br>
+>*Nature Biomedical Engineering* (**NBME**), 2025. (IF: 27.7) <br>
+
+---
 
 >**MedIAnomaly: A comparative study of anomaly detection in medical images**. <br>
 ><u>Yu Cai</u>, Weiwen Zhang, Hao Chen, Kwang-Ting Cheng.<br>*Medical Image Analysis* (**MedIA**), 2025. (IF: 10.7) <br>[[paper](https://doi.org/10.1016/j.media.2025.103500)] | [[arXiv](https://arxiv.org/abs/2404.04518)] | [[code](https://github.com/caiyu6666/MedIAnomaly)]
