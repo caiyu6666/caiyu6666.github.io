@@ -22,14 +22,20 @@ Anomaly Detection in Medical images, Computational Pathology.
 
 
 ## News
-- **[2025/02]** One paper was accepted by **Medical Image Analysis (MedIA)**.
-- **[2024/07]** Awarded HKUST RedBird PhD Award (Academic Excellence Award).
-- **[2024/06]** One paper was accepted by **MICCAI 2024**.
-- **[2023/11]** Passed the PhD Qualifying Examination (PQE) and became a PhD Candidate.
-- **[2023/03]** One paper was accepted by **Medical Image Analysis (MedIA)**.
-- **[2022/06]** Graduated from HUST with Honours Bachelor Degree (top 2%). 
-- **[2022/06]** My thesis "Research on Unsupervised Anomaly Detection in Chest X-rays" was awarded *Outstanding Undergraduate Thesis*.
-- **[2022/05]** One paper was early accepted by **MICCAI 2022**.
+
+<div style="height: 240px; overflow: auto;">
+<ul>
+<li>[2025/02] One paper was accepted by <strong>Medical Image Analysis (MedIA)</strong>.</li>
+<li>[2024/07] Awarded HKUST RedBird PhD Award (Academic Excellence Award).</li>
+<li>[2024/06] One paper was accepted by <strong>MICCAI 2024</strong>.</li>
+<li>[2023/11] Passed the PhD Qualifying Examination (PQE) and became a PhD Candidate.</li>
+<li>[2023/03] One paper was accepted by <strong>Medical Image Analysis (MedIA)</strong>.</li>
+<li>[2022/06] Graduated from HUST with Honours Bachelor Degree (top 2%).</li>
+<li>[2022/06] My thesis "Research on Unsupervised Anomaly Detection in Chest X-rays" was awarded <strong>Outstanding Undergraduate Thesis</strong>. </li>
+<li>[2022/05] One paper was early accepted by <strong>MICCAI 2022</strong>. </li>
+</ul>
+</div>
+
 
 
 
