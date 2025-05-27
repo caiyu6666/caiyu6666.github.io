@@ -17,7 +17,7 @@ Here is my [CV](https://caiyu6666.github.io/files/YuCai_resume.pdf).
 
 
 ## Research Interests
-Anomaly Detection in Medical images, Computational Pathology.
+Anomaly Detection in Medical images, Computational Pathology, Model Compression.
 
 
 
