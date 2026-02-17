@@ -25,7 +25,7 @@ Anomaly Detection in Medical images, Computational Pathology, Model Compression.
 
 <div style="height: 240px; overflow: auto;">
 <ul>
-<li>[2025/04] One co-author paper was accepted by <strong>Nature Biomedical Engineering (NBME)</strong>.</li>
+<li>[2025/04] One co-authored paper was accepted by <strong>Nature Biomedical Engineering (NBME)</strong>.</li>
 <li>[2025/02] One paper was accepted by <strong>Medical Image Analysis (MedIA)</strong>.</li>
 <li>[2024/07] Awarded HKUST RedBird PhD Award (Academic Excellence Award).</li>
 <li>[2024/06] One paper was accepted by <strong>MICCAI 2024</strong>.</li>
@@ -43,9 +43,8 @@ Anomaly Detection in Medical images, Computational Pathology, Model Compression.
 
 ## Selected Publications [[Full List]](https://scholar.google.com/citations?user=kR5LuzgAAAAJ&hl=zh-CN)
 
->**Towards A Generalizable Pathology Foundation Model via Unified Knowledge Distillation**. <br>
->Jiabo Ma^, Zhengrui Guo^, Fengtao Zhou, Yihui Wang, Yingxue Xu, Jinbang Li, Fang Yan, <u>Yu Cai</u>, Zhengjie Zhu, Cheng Jin, Yi Lin, Xinrui Jiang, Chenglong Zhao, Danyi Li, Anjia Han, Zhenhui Li, Ronald Cheong Kin Chan, Jiguang Wang, Peng Fei, Kwang-Ting Cheng, Shaoting Zhang#, Li Liang#, Hao Chen#. <br>
->*Nature Biomedical Engineering* (**NBME**), 2025. (IF: 27.7) <br>
+>**A Deployment-Friendly Foundational Framework for Efficient Computational Pathology**. <br>
+><u>Yu Cai</u>, Cheng Jin, Jiabo Ma, ...,  Hao Chen, Kwang-Ting Cheng.<br>*Under Submission*, 2026. <br> [[arXiv](https://arxiv.org/abs/2602.14010)]
 
 ---
 
@@ -72,6 +71,9 @@ Anomaly Detection in Medical images, Computational Pathology, Model Compression.
 
 ---
 
+>**Towards A Generalizable Pathology Foundation Model via Unified Knowledge Distillation**. <br>
+>Jiabo Ma^, Zhengrui Guo^, Fengtao Zhou, Yihui Wang, Yingxue Xu, Jinbang Li, Fang Yan, <u>Yu Cai</u>, Zhengjie Zhu, Cheng Jin, Yi Lin, Xinrui Jiang, Chenglong Zhao, Danyi Li, Anjia Han, Zhenhui Li, Ronald Cheong Kin Chan, Jiguang Wang, Peng Fei, Kwang-Ting Cheng, Shaoting Zhang#, Li Liang#, Hao Chen#. <br>
+>*Nature Biomedical Engineering* (**NBME**), 2025. (IF: 27.7) <br>
 
 
 
@@ -79,6 +81,7 @@ Anomaly Detection in Medical images, Computational Pathology, Model Compression.
 Selected Awards
 ------
 - 2022-2026 &nbsp;&nbsp;&nbsp;&nbsp; [HKUST Postgraduate Studentship](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees#pgs)
+- 2024-2025 &nbsp;&nbsp;&nbsp;&nbsp; [HKUST RedBird PhD Award (Academic Excellence Award)](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees#redbird)
 - 2023-2024 &nbsp;&nbsp;&nbsp;&nbsp; [HKUST RedBird PhD Award (Academic Excellence Award)](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees#redbird)
 - 2022-2023 &nbsp;&nbsp;&nbsp;&nbsp; [HKUST RedBird PhD Award (Recruitment Award)](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees#redbird)
 - 2022 &nbsp;&nbsp;&nbsp;&nbsp; Honours Bachelor Degree (**Top 2%**)
