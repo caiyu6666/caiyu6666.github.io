@@ -25,6 +25,7 @@ Anomaly Detection in Medical images, Computational Pathology, Model Compression.
 
 <div style="height: 240px; overflow: auto;">
 <ul>
+<li>[2026/02] Our new work, <strong>LitePath</strong>, is online! </li>
 <li>[2025/04] One co-authored paper was accepted by <strong>Nature Biomedical Engineering (NBME)</strong>.</li>
 <li>[2025/02] One paper was accepted by <strong>Medical Image Analysis (MedIA)</strong>.</li>
 <li>[2024/07] Awarded HKUST RedBird PhD Award (Academic Excellence Award).</li>
@@ -36,6 +37,7 @@ Anomaly Detection in Medical images, Computational Pathology, Model Compression.
 <li>[2022/05] One paper was early accepted by <strong>MICCAI 2022</strong>. </li>
 </ul>
 </div>
+
 
 
 
@@ -80,10 +82,10 @@ Anomaly Detection in Medical images, Computational Pathology, Model Compression.
 
 Selected Awards
 ------
-- 2022-2026 &nbsp;&nbsp;&nbsp;&nbsp; [HKUST Postgraduate Studentship](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees#pgs)
 - 2024-2025 &nbsp;&nbsp;&nbsp;&nbsp; [HKUST RedBird PhD Award (Academic Excellence Award)](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees#redbird)
 - 2023-2024 &nbsp;&nbsp;&nbsp;&nbsp; [HKUST RedBird PhD Award (Academic Excellence Award)](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees#redbird)
 - 2022-2023 &nbsp;&nbsp;&nbsp;&nbsp; [HKUST RedBird PhD Award (Recruitment Award)](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees#redbird)
+- 2022-2026 &nbsp;&nbsp;&nbsp;&nbsp; [HKUST Postgraduate Studentship](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees#pgs)
 - 2022 &nbsp;&nbsp;&nbsp;&nbsp; Honours Bachelor Degree (**Top 2%**)
 - 2022 &nbsp;&nbsp;&nbsp;&nbsp; Outstanding Undergraduate Thesis (**Top 2%**)
 - 2021 &nbsp;&nbsp;&nbsp;&nbsp; National Scholarship (**Top 2%**)
